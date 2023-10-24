@@ -41,4 +41,5 @@ python PING.py --dataset Yelp --num_gcn_layers 2 --reg 1e-3 --decoder_type FM --
 If you have any issues or ideas, feel free to contact us ([dugang.ldg@gmail.com](mailto:dugang.ldg@gmail.com)).
 
 Note: Since this work is based on a cooperative project with Huawei, the following statement is required:
+
 This open source project is not an official Huawei product, Huawei is not expected to provide support for this project.
