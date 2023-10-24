@@ -36,10 +36,9 @@ python PING.py --dataset LFM --num_gcn_layers 2 --reg 1e-3 --decoder_type FM --a
 python PING.py --dataset Yelp --num_gcn_layers 2 --reg 1e-3 --decoder_type FM --adj_norm_type ls --num_negatives 4 --intent_weight 0.9 --test_interval 5 --stop_cnt 10
 ```
 
+## 华为的免责声明 (Huawei’s Disclaimer)
+
+This open source project is not an official Huawei product, Huawei is not expected to provide support for this project.
 
 ## 
 If you have any issues or ideas, feel free to contact us ([dugang.ldg@gmail.com](mailto:dugang.ldg@gmail.com)).
-
-Note: Since this work is based on a cooperative project with Huawei, the following statement is required:
-
-This open source project is not an official Huawei product, Huawei is not expected to provide support for this project.
